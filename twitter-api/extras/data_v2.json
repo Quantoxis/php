@@ -1,0 +1,936 @@
+{
+	"partier": {
+		"socialdemokratiet": [{
+			"member": [{
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FYildiz_Akdogan.jpg?alt=media&token=d7603630-9055-4a14-9f31-754c3d37b25d",
+				"socialdemokratiet": "true",
+				"title": "Yildiz Akdogan",
+				"twitterhandle": "YildizAkdogan"
+			}, {
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FTrine_Bramsen.jpg?alt=media&token=46767ecc-bddf-4a9c-acf9-90107c119954",
+				"socialdemokratiet": "true",
+				"title": "Trine Bramsen",
+				"twitterhandle": "Trinebramsen"
+			}, {
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FKirsten_Brosbol.jpg?alt=media&token=de70295d-407b-4c54-8a21-9d30b628cf02",
+				"socialdemokratiet": "true",
+				"title": "Kirsten Brosbøl",
+				"twitterhandle": "Kirstenbrosbol"
+			}, {
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FMorten_Boedskov.jpg?alt=media&token=61c278f2-0e19-4a33-99dc-d8b02428d41c",
+				"socialdemokratiet": "true",
+				"title": "Morten Bødskov",
+				"twitterhandle": "mfMorten"
+			}, {
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FErik_Christensen.jpg?alt=media&token=2d7443c3-71a8-496b-ad3d-d924e66af6aa",
+				"socialdemokratiet": "true",
+				"title": "Erik Christensen",
+				"twitterhandle": "ech58"
+			}, {
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FLennart_Damsbo_Andersen.jpg?alt=media&token=74c4b568-7506-456c-8428-04a3619eb760",
+				"socialdemokratiet": "true",
+				"title": "Lennart Damsbo-Andersen",
+				"twitterhandle": ""
+			}, {
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FKaare_Dybvad.jpg?alt=media&token=4b9822f7-caf3-474b-86f1-0a560a22ea6e",
+				"socialdemokratiet": "true",
+				"title": "Kaare Dybvad",
+				"twitterhandle": "KaareDybvad"
+			}, {
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FBenny_Engelbrecht.jpg?alt=media&token=ed6075ff-07ae-4c13-a72d-80e10a8f5f65",
+				"socialdemokratiet": "true",
+				"title": "Benny Engelbrecht",
+				"twitterhandle": "BennyEngelbrech"
+			}, {
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FMette_Frederiksen.jpg?alt=media&token=a264b323-0e25-4c81-8e67-5e386ebf9c93",
+				"socialdemokratiet": "true",
+				"title": "Mette Frederiksen",
+				"twitterhandle": ""
+			}, {
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FMette_Gjerskov.jpg?alt=media&token=7d6e3b4e-92f2-4d3d-a0d8-d2687cc2f4d6",
+				"socialdemokratiet": "true",
+				"title": "Mette Gjerskov",
+				"twitterhandle": "mettegjerskov"
+			}, {
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FKarin_Gaardsted.jpg?alt=media&token=f1358eb9-352b-4b28-86d8-5f52b710f7a5",
+				"socialdemokratiet": "true",
+				"title": "Karin Gaardsted",
+				"twitterhandle": "KarinGaardsted"
+			}, {
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FAne_Halsboe_Joergensen.jpg?alt=media&token=d7cd9cb0-6610-4c75-9517-0f2e6ab0087f",
+				"socialdemokratiet": "true",
+				"title": "Ane Halsboe-Jørgensen",
+				"twitterhandle": "AneHalsboe"
+			}, {
+				"title": "Orla Hav",
+				"twitterhandle": "HavOrla",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FOrla_Hav.jpg?alt=media&token=5b234ee9-406a-4c09-a2da-751fbb2f9ec8",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Magnus Heunicke",
+				"twitterhandle": "Heunicke",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FMagnus_Heunicke.jpg?alt=media&token=82337a65-2495-4d8c-b919-8ec526c0ec90",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Nick Hækkerup",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FNick_Haekkerup.jpg?alt=media&token=efa565e0-0846-414e-a41a-c8226b454eec",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Daniel Toft Jakobsen",
+				"twitterhandle": "ToftJakobsen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FDaniel_Toft_Jakobsen.jpg?alt=media&token=b45b9169-24d3-4dda-ae13-42dcf2e6dded",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Leif Lahn Jensen",
+				"twitterhandle": "LahnLeif",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FLeif_Lahn_Jensen.jpg?alt=media&token=56f96a25-938c-49e9-822c-8e769b197496",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Mogens Jensen",
+				"twitterhandle": "MogensJensenS",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FMogens_Jensen.jpg?alt=media&token=aa6d6641-86bc-4c5c-8585-68cec09592dc",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Thomas Jensen",
+				"twitterhandle": "MFThomasJensen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FThomas_Jensen.jpg?alt=media&token=6891dcd5-a59f-4e17-87fa-80989c35a6d7",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Jens Joel",
+				"twitterhandle": "Jens_Joel",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FJens_Joel.jpg?alt=media&token=091d45a8-ac6e-4e16-80d6-e5f183012d39",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Jan Johansen",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FJan_Johansen.jpg?alt=media&token=60537a12-af8b-4043-964a-2fb7b427795a",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Dan Jørgensen",
+				"twitterhandle": "DanJoergensen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FDan_Jorgensen.jpg?alt=media&token=37a12313-84a3-47c8-ae5e-c71afa67dd1b",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Karen J. Klint",
+				"twitterhandle": "KarenJKlint",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FKaren_J_Klint.jpg?alt=media&token=c28fba00-6065-4957-ad9b-4bd3339a8c23",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Simon Kollerup",
+				"twitterhandle": "simonkollerup",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FSimon_Kollerup.jpg?alt=media&token=bf382a0e-0cbf-41db-acef-1594e0235da3",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Astrid Krag",
+				"twitterhandle": "Astridkrag",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FAstrid_Krag.jpg?alt=media&token=97c880f1-68ea-441b-90a2-5084bbbb9c7b",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Henrik Dam Kristensen",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FHenrik_Dam_Kristensen.jpg?alt=media&token=9326a1a0-d13f-4d94-9b67-576b09532984",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Rasmus Horn Langhoff",
+				"twitterhandle": "rasmushorn",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FRasmus_Horn_Langhoff.jpg?alt=media&token=c8a818b6-5fd7-46ea-9ef3-37e92a9b29f3",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Henrik Sass Larsen",
+				"twitterhandle": "SosseSass",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FHenrik_Sass_Larsen.jpg?alt=media&token=6cbffdc2-93ff-4200-833f-7406f9b506d9",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Bjarne Laustsen",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FBjarne_Laustsen.jpg?alt=media&token=ea6a5cbd-9722-4b7b-bf14-6f37a02fa1c9",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Annette Lind",
+				"twitterhandle": "annette_lind",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FAnnette_Lind.jpg?alt=media&token=75d55204-53f7-4a33-929e-8df3c06de3f0",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Malou Lunderød",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FMalou_Lunderoed.jpg?alt=media&token=1ec7bf60-e193-4447-9829-e9b0df022b7f",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Mogens Lykketoft",
+				"twitterhandle": "lykketoft",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FMogens_Lykketoft.jpg?alt=media&token=359300eb-c2f2-4e9d-acc2-f0a6847962cb",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Christian Rabjerg Madsen",
+				"twitterhandle": "RabjergMadsen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FChristian_Rabjerg_Madsen.jpg?alt=media&token=39aaede7-820e-4bdb-b448-eea3694444fe",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Flemming Møller Mortensen",
+				"twitterhandle": "FlemmingMM",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FFlemming_Moller_Mortensen.jpg?alt=media&token=232794e7-1133-42d5-9f6b-6d3ce088bf11",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Maja Panduro",
+				"twitterhandle": "PanduroMaja",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FMaja_Panduro.jpg?alt=media&token=52415829-77a2-4526-851f-4e9e7991837f",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Jesper Petersen",
+				"twitterhandle": "Jesper_Pet",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FJesper_Petersen.jpg?alt=media&token=6835335e-13cf-4923-8d6c-d407c4d2e138",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Rasmus Prehn",
+				"twitterhandle": "RasmusPrehn",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FRasmus_Prehn.jpg?alt=media&token=ca264e63-08ec-47fb-bfdb-b87ba16222ba",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Lars Aslan Rasmussen",
+				"twitterhandle": "AslanLars",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FLars_Aslan_Rasmussen.jpg?alt=media&token=54b81565-5749-42e4-a73b-e1b5e99e4840",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Troels Ravn",
+				"twitterhandle": "RavnTroels",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FTroels_Ravn.jpg?alt=media&token=997f974a-b6df-4f0a-bde7-c31144a8c771",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Mette Reissmann",
+				"twitterhandle": "mettereissmann",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FMette_Reissmann.jpg?alt=media&token=43e39577-6556-478d-8392-0aeb9650042b",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Pernille Rosenkrantz-Theil",
+				"twitterhandle": "RosenkrantzT",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FPernille_Rosenkrantz_Theil.jpg?alt=media&token=711b7eb4-1f68-4fbc-a0a4-966acd956915",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Julie Skovsby",
+				"twitterhandle": "JulieSkovsby",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FJulie_Skovsby.jpg?alt=media&token=32de9043-1bb5-4828-ac06-668049b094dd",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Mattias Tesfaye",
+				"twitterhandle": "mattiastesfaye",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FMattias_Tesfaye.jpg?alt=media&token=d23ebfc4-73b1-4223-911e-be3d2992760c",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Peter Hummelgaard Thomsen",
+				"twitterhandle": "PHummelgaard",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FPeter_Hummelgaard_Thomsen.jpg?alt=media&token=32e55007-562f-4837-aef0-2d4e99c8f42f",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Nicolai Wammen",
+				"twitterhandle": "NWammen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FNicolai_Wammen.jpg?alt=media&token=756ea1a0-f36f-4e9d-9807-a7a142144a7a",
+				"socialdemokratiet": "true"
+			}, {
+				"title": "Lea Wermelin",
+				"twitterhandle": "LeaWermelin",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialdemokratiet%2FLea_Wermelin.jpg?alt=media&token=c05db75e-3f2d-4449-8525-7cc688aa0274",
+				"socialdemokratiet": "true"
+			}]
+		}],
+		"danskfolkeparti": [{
+			"twitterhandle": "DanskDf1995",
+			"member": [{
+					"title": "Pia Adelsteen",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FPia_Adelsteen.jpg?alt=media&token=4bd09b50-7a96-48a7-8c9f-cacd03700bc6",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Alex Ahrendtsen",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FAlex_Ahrendtsen.jpg?alt=media&token=9cd48bcd-c4a8-4b60-a01c-0400d64f84b9",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Bent Bøgsted",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FBent_Bogsted.jpg?alt=media&token=05c9bc72-0460-4b65-88c3-b5baf563003b",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Christian Langballe",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FChristian_Langballe.jpg?alt=media&token=05d7cb3a-7cb7-406e-a463-b7824984741c",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Claus Kvist Hansen",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FClaus_Kvist_Hansen.jpg?alt=media&token=65e4890d-67e1-4e45-bf69-5664ad8d03d4",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Dennis Flydtkjær",
+					"twitterhandle": "flydtkjaer",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FDennis_Flydtkjaer.jpg?alt=media&token=612970fe-0174-472f-aede-685cd967b0b1",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Dorthe Ullemose",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FDorthe_Ullemose.jpg?alt=media&token=4317bca8-03b6-48e3-96b2-cc0016135ed1",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Hans Kristian Skibby",
+					"twitterhandle": "Hans_Kr_Skibby",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FHans_Kristian_Skibby.jpg?alt=media&token=c02b7577-cb00-4fda-85fd-4e555c5cb259",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Henrik Brodersen",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FHenrik_Brodersen.jpg?alt=media&token=65ee1663-4a53-4c25-9566-671f2acf0fe8",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Ib Poulsen",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FIb_Poulsen.jpg?alt=media&token=0ee27b4b-03ea-4edc-8485-5a02bb400258",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Jan Erik Messmann",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FJan_Erik_Messmann.jpg?alt=media&token=dd5224a5-7988-4e29-8bcb-d8a7774f5a60",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Jan Rytkjær Callesen",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FJan_Rytkjaer_Callesen.jpg?alt=media&token=6e5c2edf-c00a-4dad-96b0-28ecc747ac9e",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Jens Henrik Thulesen Dahl ",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FJens_Henrik_Thulesen_Dahl.jpg?alt=media&token=ef66d006-99d4-4d71-aa4e-309b23fc8e87",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Jeppe Jakobsen",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FJeppe_Jakobsen.jpg?alt=media&token=41c1c38a-d4e8-4ca9-81a4-f4a85116a89b",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Karin Nødgaard",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FKarin_Nodgaard.jpg?alt=media&token=c95b347c-b9e3-4c3f-8749-24c50d9fea2d",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Karina Adsbøl",
+					"twitterhandle": "AdsbolAdsbl",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FKarina_Adsboel.jpg?alt=media&token=5274e030-bc70-4b02-b1cb-41e44fcd4759",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Karina Due",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FKarina_Due.jpg?alt=media&token=a03f504e-73dd-4ba4-bfd1-ed1ea0aec085",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Kenneth Kristensen Berth ",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FKenneth_Kristensen_Berth.jpg?alt=media&token=e9489624-72a7-49bf-858e-904af450d1a5",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Kim Christiansen",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FKim_Christiansen.jpg?alt=media&token=d481f644-6d57-460d-a626-b17eb8842daf",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Kristian Thulesen Dahl",
+					"twitterhandle": "Kristianthdahl",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FKristian_Thulesen_Dahl.jpg?alt=media&token=f5adb8e3-8011-4421-b611-bf7dd0ccbb96",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Lise Bech",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FLise_Bech.jpg?alt=media&token=f9ff750f-77c0-4e25-b708-3378d7a05931",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Liselotte Blixt",
+					"twitterhandle": "Blixt22",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FLiselotte_Blixt.jpg?alt=media&token=0acda1f9-5cb5-48f0-97ae-c72059fd00ea",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Marie Krarup",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FMarie_Krarup.jpg?alt=media&token=fc100098-ab34-4286-8791-5b2f643552e1",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Marlene Harpsøe",
+					"twitterhandle": "MarleneHARPSOEE",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FMarlene_Harpsoe.jpg?alt=media&token=6cfa3639-4e71-469f-b930-f88555bf1cf2",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Martin Henriksen",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FMartin_Henriksen.jpg?alt=media&token=efaa43b9-3e4e-4985-8e2c-67f26152bbfa",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Merete Dea Larsen",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FMerete_Dea_Larsen.jpg?alt=media&token=32e36b90-49f2-4cf3-a5ac-6f21f32facca",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Mette Hjermind Dencker",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FMette_Hjermind_Dencker.jpg?alt=media&token=34497455-f033-4ff2-afe1-f1537e9c648c",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Mikkel Dencker",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FMikkel_Dencker.jpg?alt=media&token=2b7800f8-d100-4fe3-b040-cb72aeb173d6",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Morten Marinus",
+					"twitterhandle": "MortenMarinus",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FMorten_Marinus.jpg?alt=media&token=2e0dd8c8-8643-491b-b6b2-761d48e4fd2a",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Pernille Bendixen",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FPernille_Bendixen.jpg?alt=media&token=9a72fd1c-6fd7-4e88-a4c4-7ecb596a2cfd",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Peter Kofod",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FPeter_Kofod_Poulsen.jpg?alt=media&token=554790b8-7fd9-40db-856d-5135d617e54f",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Peter Skaarup",
+					"twitterhandle": "skaarup_df",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FPeter_Skaarup.jpg?alt=media&token=9caf30e8-9746-4bbd-9282-13511072f5c2",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Pia Adelsteen",
+					"twitterhandle": "PAdelsteen",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FPia_Adelsteen.jpg?alt=media&token=4bd09b50-7a96-48a7-8c9f-cacd03700bc6",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Pia Kjærsgaard",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FPia_Kjaersgaard.jpg?alt=media&token=19a1ca13-f6d8-4102-a03c-6bef2487ff1b",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "René Christensen",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FRene_Christensen.jpg?alt=media&token=ec4dbb75-78a2-485a-b0ec-0addcc3bbae0",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Susanne Eilersen",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FSusanne_Eilersen.jpg?alt=media&token=e277dbc8-1008-47b0-83cf-6d204ec4600f",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Søren Espersen",
+					"twitterhandle": "espersendf",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FSoeren_Espersen.jpg?alt=media&token=940321b6-3dfe-4e0f-b8ad-8969be771cd8",
+					"dansk folkeparti": "true"
+				}, {
+					"title": "Tilde Bork",
+					"twitterhandle": "",
+					"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/danskfolkeparti%2FTilde_Bork.jpg?alt=media&token=1c35ea3d-7832-4cf9-9b66-143e7065315d",
+					"dansk folkeparti": "true"
+				}
+
+			]
+		}],
+		"venstre": [{
+			"twitterhandle": "venstredk",
+			"member": [{
+				"title": "Anni Matthiesen",
+				"twitterhandle": "AnniMatthiesen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FAnni_Matthiesen.jpg?alt=media&token=7f3af968-1210-4624-b10d-2cbf37a3aaac",
+				"venstre": "true"
+			}, {
+				"title": "Bertel Haarder",
+				"twitterhandle": "BHaarder",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FBertel_Haarder.jpg?alt=media&token=f7ab9b66-7f40-4e03-9794-0c5776bb0958",
+				"venstre": "true"
+			}, {
+				"title": "Britt Bager",
+				"twitterhandle": "brittbager",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FBritt_Bager.jpg?alt=media&token=86a8d6c8-0e83-4ed3-bc4f-63ee9b436abf",
+				"venstre": "true"
+			}, {
+				"title": "Carl Holst",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FCarl_Holst.jpg?alt=media&token=682e8e44-b698-4f1a-93f7-42180a4c2922",
+				"venstre": "true"
+			}, {
+				"title": "Carsten Kissmeyer",
+				"twitterhandle": "",
+				"picture": "",
+				"venstre": "true"
+			}, {
+				"title": "Claus Hjort Frederiksen",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FClaus_Hjort_Frederiksen.jpg?alt=media&token=a49965cd-4f10-4f21-9b1e-26b31b8a69bb",
+				"venstre": "true"
+			}, {
+				"title": "Ellen Trane Nørby",
+				"twitterhandle": "EllenTraneNorby",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FEllen_Trane_Norby.jpg?alt=media&token=50ea836c-6f51-4c40-860d-c762eda3c565",
+				"venstre": "true"
+			}, {
+				"title": "Erling Bonnesen",
+				"twitterhandle": "ErlingBonnesen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FErling_Bonnesen.jpg?alt=media&token=751f0b6f-a539-488a-827c-caddccc37739",
+				"venstre": "true"
+			}, {
+				"title": "Eva Kjer Hansen",
+				"twitterhandle": "EvaKjerHansen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FEva_Kjer_Hansen.jpg?alt=media&token=5461064a-abf7-4bba-a36c-dd9b35fc5819",
+				"venstre": "true"
+			}, {
+				"title": "Hans Andersen",
+				"twitterhandle": "HansAndersenV",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FHans_Andersen.jpg?alt=media&token=bb3a4160-3579-4f98-93f6-ede4157e2579",
+				"venstre": "true"
+			}, {
+				"title": "Hans Christian Schmidt",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FHans_Chr_Schmidt.jpg?alt=media&token=7852dd14-8108-4b1a-a1da-db1207b4a33d",
+				"venstre": "true"
+			}, {
+				"title": "Inger Støjberg",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FInger_Stoejberg.jpg?alt=media&token=148cdf2f-8b77-4a37-a3ea-675ead49d653",
+				"venstre": "true"
+			}, {
+				"title": "Jacob Jensen",
+				"twitterhandle": "jacobjensenMF",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FJacob_Jensen.jpg?alt=media&token=b56fdb27-1131-48ad-834c-fc4db4049140",
+				"venstre": "true"
+			}, {
+				"title": "Jakob Ellemann-Jensen",
+				"twitterhandle": "JakobEllemann",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FJakob_Ellemann_Jensen.jpg?alt=media&token=35c8f02e-1f3d-49f0-af45-a43c9487a7b6",
+				"venstre": "true"
+			}, {
+				"title": "Jakob Engel-Schmidt",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FJakob_Engel_Schmidt.jpg?alt=media&token=ff2d3a14-746d-4349-aac1-127691a7261f",
+				"venstre": "true"
+			}, {
+				"title": "Jan E. Jørgensen",
+				"twitterhandle": "JanEJoergensen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FJan_E_Jorgensen.jpg?alt=media&token=65029732-590d-42bf-a809-586a3458f058",
+				"venstre": "true"
+			}, {
+				"title": "Jane Heitmann",
+				"twitterhandle": "JaneHeitmann",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FJane_Heitmann.jpg?alt=media&token=627d1fad-6dce-4f5d-8d2e-a7955553bb5a",
+				"venstre": "true"
+			}, {
+				"title": "Karen Ellemann",
+				"twitterhandle": "EllemannKaren",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FKaren_Ellemann.jpg?alt=media&token=5e3b968e-70c2-4de9-a4f1-747f7b7ea88d",
+				"venstre": "true"
+			}, {
+				"title": "Karsten Lauritzen",
+				"twitterhandle": "StemLAURITZEN",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FKarsten_Lauritzen.jpg?alt=media&token=1154ee26-fd5d-4b6a-9b81-b88e720ec839",
+				"venstre": "true"
+			}, {
+				"title": "Kristian Jensen",
+				"twitterhandle": "Kristian_Jensen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FKristian_Jensen.jpg?alt=media&token=05a65869-cf5a-420e-8e53-64e70d2aca56",
+				"venstre": "true"
+			}, {
+				"title": "Kristian Pihl Lorentzen",
+				"twitterhandle": "kplorentzen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FKristian_Pihl_Lorentzen.jpg?alt=media&token=c68fcdc1-ba08-49d8-8720-edf44c9c4f97",
+				"venstre": "true"
+			}, {
+				"title": "Lars Christian Lilleholt",
+				"twitterhandle": "larsclilleholt",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FLars_Chr_Lilleholt.jpg?alt=media&token=1890209e-ec50-4f55-b159-fd50349a6675",
+				"venstre": "true"
+			}, {
+				"title": "Lars Løkke Rasmussen",
+				"twitterhandle": "larsloekke",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FLars_Loekke_Rasmussen.jpg?alt=media&token=2da8898d-1d3e-4f63-bc3b-7a0d2653eb03",
+				"venstre": "true"
+			}, {
+				"title": "Louise Schack Elholm",
+				"twitterhandle": "LouiseElholm",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FLouise_Schack_Elholm.jpg?alt=media&token=829a4b7e-77dd-4cdd-9c18-9a9dd882f867",
+				"venstre": "true"
+			}, {
+				"title": "Mads Fuglede",
+				"twitterhandle": "madsfuglede",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FMads_Fuglede.jpg?alt=media&token=5445afa0-00ce-4bfb-8f60-ffae175a71b6",
+				"venstre": "true"
+			}, {
+				"title": "Marcus Knuth",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FMarcus_Knuth.jpg?alt=media&token=392a7d62-68dc-4b2e-8a01-dd247e241c96",
+				"venstre": "true"
+			}, {
+				"title": "Martin Geertsen",
+				"twitterhandle": "GeertsenVenstre",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FMartin_Geertsen.jpg?alt=media&token=2a524d2f-58d0-4121-b335-60021e79069a",
+				"venstre": "true"
+			}, {
+				"title": "Michael Aastrup Jensen",
+				"twitterhandle": "michaelaastrup",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FMichael_Aastrup_Jensen.jpg?alt=media&token=8c4d0c30-93a2-4f1c-8f7b-92a0c109cea2",
+				"venstre": "true"
+			}, {
+				"title": "Peter Juel-Jensen",
+				"twitterhandle": "PeterJuelJensen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FPeter_Juel_Jensen.jpg?alt=media&token=31ff6ea2-922a-4284-b1ae-d73c5aa67cfe",
+				"venstre": "true"
+			}, {
+				"title": "Sophie Løhde",
+				"twitterhandle": "sophieloehde",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FSophie_Loehde.jpg?alt=media&token=587db71e-d62b-4b14-92a1-ad720bb6c9f3",
+				"venstre": "true"
+			}, {
+				"title": "Søren Gade",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FSoeren_Gade.jpg?alt=media&token=a3be61ec-ad6a-4b6d-ab55-36aa08610668",
+				"venstre": "true"
+			}, {
+				"title": "Thomas Danielsen",
+				"twitterhandle": "ThDanielsen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FThomas_Danielsen.jpg?alt=media&token=80328abb-63f4-42e2-bba5-f3470c465a84",
+				"venstre": "true"
+			}, {
+				"title": "Torsten Schack Pedersen",
+				"twitterhandle": "Torstenschack",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FTorsten_Schack_Pedersen.jpg?alt=media&token=2197413f-5e78-4db7-86c5-b51b3434286f",
+				"venstre": "true"
+			}, {
+				"title": "Troels Lund Poulsen",
+				"twitterhandle": "troelslundp",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/venstre%2FTroels_Lund_Poulsen.jpg?alt=media&token=8c381bcc-0a50-4a1d-9da7-e0dc4e0a12f5",
+				"venstre": "true"
+			}]
+		}],
+		"enhedslisten": [{
+			"twitterhandle": "Enhedslisten",
+			"member": [{
+				"title": "Christian Juhl",
+				"twitterhandle": "ChristianJuhl2",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/enhedslisten%2FChristian_Juhl.jpg?alt=media&token=8887e591-f1a4-4d2c-b53d-807c10920b86",
+				"enhedslisten": "true"
+			}, {
+				"title": "Eva Flyvholm",
+				"twitterhandle": "EvaFlyvholm",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/enhedslisten%2FEva_Flyvholm.jpg?alt=media&token=5228b2f0-2ec2-4f7c-8f74-2e6a26af3669",
+				"enhedslisten": "true"
+			}, {
+				"title": "Finn Sørensen",
+				"twitterhandle": "brittbager",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/enhedslisten%2FFinn_Sorensen.jpg?alt=media&token=01cab592-5d1b-4372-8d9a-f6ae5129bbcd",
+				"enhedslisten": "true"
+			}, {
+				"title": "Henning Hyllested",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/enhedslisten%2FHenning_Hyllested.jpg?alt=media&token=bfeb7d98-56a7-42ee-9bc8-bc40717f85c2",
+				"enhedslisten": "true"
+			}, {
+				"title": "Jakob Sølvhøj",
+				"twitterhandle": "JakobSoelvhoej",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/enhedslisten%2FJakob_Solvhoj.jpg?alt=media&token=77748391-a8ee-4a79-8b4b-7d81ba781e03",
+				"enhedslisten": "true"
+			}, {
+				"title": "Johanne Schmidt-Nielsen",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/enhedslisten%2FJohanne_Schmidt_Nielsen.jpg?alt=media&token=46eea22d-fe80-486d-8b62-44a728cbe6f1",
+				"enhedslisten": "true"
+			}, {
+				"title": "Nikolaj Villumsen",
+				"twitterhandle": "nvillumsen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/enhedslisten%2FNikolaj_Villumsen.jpg?alt=media&token=4f785082-75a8-48b9-8f88-c757adbf9229",
+				"enhedslisten": "true"
+			}, {
+				"title": "Pelle Dragsted",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/enhedslisten%2FPelle_Dragsted.jpg?alt=media&token=9eef506d-5cd9-43df-8bdd-89226fa3e1ab",
+				"enhedslisten": "true"
+			}, {
+				"title": "Pernille Skipper",
+				"twitterhandle": "PSkipperEL",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/enhedslisten%2FPernille_Skipper.jpg?alt=media&token=7635f714-03a3-4338-a3f4-fcd84c5efab6",
+				"enhedslisten": "true"
+			}, {
+				"title": "Rasmus Vestergaard Madsen",
+				"twitterhandle": "RasmusVMadsen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/enhedslisten%2FRasmus_Vestergaard_Madsen.jpg?alt=media&token=87db06ee-8729-461f-9343-7294480f88e5",
+				"enhedslisten": "true"
+			}, {
+				"title": "Rosa Lund",
+				"twitterhandle": "RosaLundEl",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/enhedslisten%2FRosa_Lund.jpg?alt=media&token=47664b92-3cbd-4240-bd0a-12dc998c2ca9",
+				"enhedslisten": "true"
+			}, {
+				"title": "Rune Lund",
+				"twitterhandle": "RuneLundEL",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/enhedslisten%2FRune_Lund.jpg?alt=media&token=98a20582-ede4-4035-81a5-49e48be3827a",
+				"enhedslisten": "true"
+			}, {
+				"title": "Stine Brix",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/enhedslisten%2FStine_Brix.jpg?alt=media&token=e01c005b-71b4-4736-8cae-d41901782f61",
+				"enhedslisten": "true"
+			}, {
+				"title": "Søren Søndergaard",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/enhedslisten%2FSoren_Sondergaard.jpg?alt=media&token=11d046b3-e433-40cf-b4e7-8a4c98ac668a",
+				"enhedslisten": "true"
+			}, {
+				"title": "Søren Egge Rasmussen",
+				"twitterhandle": "SorenEggeRasmus",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/enhedslisten%2FSoren_Egge_Rasmussen.jpg?alt=media&token=c23f6631-94bb-4b4a-874b-2c1a8536a181",
+				"enhedslisten": "true"
+			}, {
+				"title": "Øjvind Vilsholm",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/enhedslisten%2FOjvind_Vilsholm.jpg?alt=media&token=e51ec1f0-82bb-489b-b846-038cedb9f1fc",
+				"enhedslisten": "true"
+			}]
+		}],
+		"liberalalliance": [{
+			"twitterhandle": "LiberalAlliance",
+			"member": [{
+				"title": "Anders Samuelsen",
+				"twitterhandle": "ChristianJuhl2",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/liberalalliance%2FAnders_Samuelsen.jpg?alt=media&token=fe2bb49d-e5fd-4c5e-b310-2108d05b07d0",
+				"liberal alliance": "true"
+			}, {
+				"title": "Carsten Bach",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/liberalalliance%2FCarsten_Bach.jpg?alt=media&token=13dc8aa0-f7c2-4666-a6ad-bfef53b8caac",
+				"liberal alliance": "true"
+			}, {
+				"title": "Christina Egelund",
+				"twitterhandle": "ChristinaEgelun",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/liberalalliance%2FChristina_Egelund.jpg?alt=media&token=1bbfa139-89f5-464f-b36c-8325ab74e484",
+				"liberal alliance": "true"
+			}, {
+				"title": "Henrik Dahl",
+				"twitterhandle": "SociologenHD",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/liberalalliance%2FHenrik_Dahl.jpg?alt=media&token=92f79a87-8863-4821-b578-b9f457147fe7",
+				"liberal alliance": "true"
+			}, {
+				"title": "Joachim B. Olsen",
+				"twitterhandle": "JoachimBOlsen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/liberalalliance%2FJoachim_B_Olsen.jpg?alt=media&token=21b55cd2-f161-48dc-97a3-525aa75bf0b4",
+				"liberal alliance": "true"
+			}, {
+				"title": "Laura Lindahl",
+				"twitterhandle": "lauralindahl",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/liberalalliance%2FLaura_Lindahl.jpg?alt=media&token=7290db04-53eb-4ed3-bc75-ce82c87f7d11",
+				"liberal alliance": "true"
+			}, {
+				"title": "Leif Mikkelsen",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/liberalalliance%2FLeif_Mikkelsen.jpg?alt=media&token=ab7208f6-6973-40b2-a0ab-d0d3c2150434",
+				"liberal alliance": "true"
+			}, {
+				"title": "May-Britt Kattrup",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/liberalalliance%2FMay_Britt_Kattrup.jpg?alt=media&token=3722e9bd-529b-43a6-9f29-2956e0a904c6",
+				"liberal alliance": "true"
+			}, {
+				"title": "Merete Riisager",
+				"twitterhandle": "MereteRiisager",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/liberalalliance%2FMerete_Riisager.jpg?alt=media&token=3ce9d543-3d07-4adb-befe-3ab0d62f76d7",
+				"liberal alliance": "true"
+			}, {
+				"title": "Mette Bock",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/liberalalliance%2FMette_Bock.jpg?alt=media&token=58fd0a3c-1ef9-4e76-807b-c66dad265e7c",
+				"liberal alliance": "true"
+			}, {
+				"title": "Ole Birk Olesen",
+				"twitterhandle": "olebirkolesen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/liberalalliance%2FOle_Birk_Olesen.jpg?alt=media&token=2eeadb2a-dedf-4fe9-9b01-abca91b0ef3c",
+				"liberal alliance": "true"
+			}, {
+				"title": "Simon Emil Ammitzbøll-Bille",
+				"twitterhandle": "SimonEmilAmmitz",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/liberalalliance%2FSimon_Emil_Amitzboll.jpg?alt=media&token=ea4415b3-4839-46b7-8710-b93745eed106",
+				"liberal alliance": "true"
+			}, {
+				"title": "Villum Christensen",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/liberalalliance%2FVillum_Christensen.jpg?alt=media&token=32108358-9906-41e2-9803-9958042e22cb",
+				"liberal alliance": "true"
+			}]
+		}],
+		"alternativet": [{
+			"twitterhandle": "alternativet_",
+			"member": [{
+				"title": "Carolina Magdalene Maier",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/alternativet%2FCarolina_Magdalene_Maier.jpg?alt=media&token=2534cf5d-e337-45c6-a61e-4365fd9daa29",
+				"alternativet": "true"
+			}, {
+				"title": "Christian Poll",
+				"twitterhandle": "ChristianPoll",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/alternativet%2FChristian_Poll.jpg?alt=media&token=d4aa9202-8d14-4de6-a43d-250df39a2aba",
+				"alternativet": "true"
+			}, {
+				"title": "Julius Gorm Graakjær Grantzau",
+				"twitterhandle": "",
+				"picture": "",
+				"alternativet": "true"
+			}, {
+				"title": "Pernille Schnoor",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/alternativet%2FPernille_Schnoor.jpg?alt=media&token=aae4d594-d36e-46de-8238-af0689158da8",
+				"alternativet": "true"
+			}, {
+				"title": "Rasmus Nordqvist",
+				"twitterhandle": "rasmusnordqvist",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/alternativet%2FRasmus_Nordqvist.jpg?alt=media&token=2437f018-2152-4303-9a79-505c9d3023a9",
+				"alternativet": "true"
+			}, {
+				"title": "René Gade",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/alternativet%2FRene_Gade.jpg?alt=media&token=3aee96ae-e7cf-4015-bbd9-51cfbca70af1",
+				"alternativet": "true"
+			}, {
+				"title": "Roger Courage Matthisen",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/alternativet%2FRoger_Matthisen.jpg?alt=media&token=0a5de5a4-1a6b-438e-a23b-17a31406e82c",
+				"alternativet": "true"
+			}, {
+				"title": "Torsten Gejl",
+				"twitterhandle": "TorstenGejl",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/alternativet%2FTorsten_Gejl.jpg?alt=media&token=ec47b507-06da-4f1e-91a2-c80f3317aa0d",
+				"alternativet": "true"
+			}, {
+				"title": "Uffe Elbæk",
+				"twitterhandle": "uffeelbaek",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/alternativet%2FUffe_Elbaek.jpg?alt=media&token=336aef7d-85c1-41e0-844b-e4fc0efc035a",
+				"alternativet": "true"
+			}, {
+				"title": "Ulla Sandbæk",
+				"twitterhandle": "usandbaek",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/alternativet%2FUlla_Sandbaek.jpg?alt=media&token=4d5fb4a0-a24b-4a4e-b429-18c2a15f0eab",
+				"alternativet": "true"
+			}]
+		}],
+		"radikalevenstre": [{
+			"twitterhandle": "radikale",
+			"member": [{
+				"title": "Andreas Steenberg",
+				"twitterhandle": "a_steenberg",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/radikalevenstre%2FAndreas_Steenberg.jpg?alt=media&token=1432046b-45bc-4b46-bbf1-072a50e73dcd",
+				"radikale venstre": "true"
+			}, {
+				"title": "Ida Auken",
+				"twitterhandle": "IdaAuken",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/radikalevenstre%2FIda_Auken.jpg?alt=media&token=c074e35f-c58a-49e7-ad4a-95144250d238",
+				"radikale venstre": "true"
+			}, {
+				"title": "Lotte Rod",
+				"twitterhandle": "LotteRod",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/radikalevenstre%2FLotte_Rod.jpg?alt=media&token=79226800-28f7-4ac2-aa1f-bcf3d4952498",
+				"radikale venstre": "true"
+			}, {
+				"title": "Marianne Jelved",
+				"twitterhandle": "mariannejelved",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/radikalevenstre%2FMarianne_Jelved.jpg?alt=media&token=fcca1454-4268-40c7-960d-c7d7548a8bfa",
+				"radikale venstre": "true"
+			}, {
+				"title": "Martin Lidegaard",
+				"twitterhandle": "martinlidegaard",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/radikalevenstre%2FMartin_Lidegaard.jpg?alt=media&token=5a65072f-118a-4b31-9321-ea9afedd9f10",
+				"radikale venstre": "true"
+			}, {
+				"title": "Morten Østergaard",
+				"twitterhandle": "oestergaard",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/radikalevenstre%2FMorten_Ostergaard.jpg?alt=media&token=68089da9-b917-404a-a9a5-0d952299838e",
+				"radikale venstre": "true"
+			}, {
+				"title": "Rasmus Helveg Petersen",
+				"twitterhandle": "",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/radikalevenstre%2FRasmus_Helveg_Petersen.jpg?alt=media&token=35546ffe-0021-4136-a6c0-49c49920f134",
+				"radikale venstre": "true"
+			}, {
+				"title": "Sofie Carsten Nielsen",
+				"twitterhandle": "sofiecn",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/radikalevenstre%2FSofie_Carsten_Nielsen.jpg?alt=media&token=a3e6ae55-9b17-458e-ac67-ec2dac906839",
+				"radikale venstre": "true"
+			}, {
+				"title": "Zenia Stampe",
+				"twitterhandle": "zeniastampe",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/radikalevenstre%2FZenia_Stampe.jpg?alt=media&token=6663593c-4f22-462d-926c-34bcd9c20478",
+				"radikale venstre": "true"
+			}]
+		}],
+		"socialistiskfolkeparti": [{
+			"twitterhandle": "",
+			"member": [{
+				"title": "Holger K. Nielsen",
+				"twitterhandle": "sfhoni",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialistiskfolkeparti%2FHolger_K_Nielsen.jpg?alt=media&token=6bd4d2fa-954f-439a-af5c-cf2146207542",
+				"socialistisk folkeparti": "true"
+			}, {
+				"title": "Jacob Mark",
+				"twitterhandle": "jacobmark_sf",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialistiskfolkeparti%2FJacob_Mark.jpg?alt=media&token=89a9ae6f-0488-4704-9ca7-9d98702a9700",
+				"socialistisk folkeparti": "true"
+			}, {
+				"title": "Karsten Hønge",
+				"twitterhandle": "khoenge",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialistiskfolkeparti%2FKarsten_Honge.jpg?alt=media&token=6fe81e6f-1f4e-4c50-869c-48edddc1344a",
+				"socialistisk folkeparti": "true"
+			}, {
+				"title": "Kirsten Normann Andersen",
+				"twitterhandle": "KirstenNormann",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialistiskfolkeparti%2FKirsten_Normann_Andersen.jpg?alt=media&token=e45e5930-4835-4ed6-99ba-ece0d53482f5",
+				"socialistisk folkeparti": "true"
+			}, {
+				"title": "Lisbeth Bech Poulsen",
+				"twitterhandle": "LisbethBPoulsen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialistiskfolkeparti%2FLisbeth_Bech_Poulsen.jpg?alt=media&token=8619629b-14c1-4387-8455-659ade7ffb2d",
+				"socialistisk folkeparti": "true"
+			}, {
+				"title": "Pia Olsen Dyhr",
+				"twitterhandle": "PiaOlsen",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialistiskfolkeparti%2FPia_Olsen_Dyhr.jpg?alt=media&token=cf0df6a8-17d0-4900-95c5-04e41d2b8046",
+				"socialistisk folkeparti": "true"
+			}, {
+				"title": "Trine Torp",
+				"twitterhandle": "TrineTorp",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/socialistiskfolkeparti%2FTrine_Torp.jpg?alt=media&token=0d70492a-a6e1-44e2-93e8-d0249b16e7c6",
+				"socialistisk folkeparti": "true"
+			}]
+		}],
+		"konservative": [{
+			"twitterhandle": "KonservativeDK",
+			"member": [{
+				"title": "Brigitte Klintskov Jerkel",
+				"twitterhandle": "JerkelK",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/konservative%2FBrigitte_Klintskov_Jerkel.jpg?alt=media&token=92c7f56b-72e5-4166-8720-a38a6ea5d437",
+				"konservative": "true"
+			}, {
+				"title": "Mai Mercado",
+				"twitterhandle": "_MaiMercado",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/konservative%2FMai_Mercado.jpg?alt=media&token=f56c22b8-b67f-403a-a34e-9d0c4e5489c2",
+				"konservative": "true"
+			}, {
+				"title": "Mette Abildgaard",
+				"twitterhandle": "metteabildgaard",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/konservative%2FMette_Abildgaard.jpg?alt=media&token=cfff285a-e560-4098-af25-30f1a5624760",
+				"konservative": "true"
+			}, {
+				"title": "Naser Khader",
+				"twitterhandle": "naserkhaderdk",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/konservative%2FNaser_Khader.jpg?alt=media&token=88c99d66-f242-415f-99ef-7c8cbfa25310",
+				"konservative": "true"
+			}, {
+				"title": "Rasmus Jarlov",
+				"twitterhandle": "RasmusJarlov",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/konservative%2FRasmus_Jarlov.jpg?alt=media&token=e7e51280-3f66-459a-9094-04e4b29a22dc",
+				"konservative": "true"
+			}, {
+				"title": "Søren Pape Poulsen",
+				"twitterhandle": "SorenPape",
+				"picture": "https://firebasestorage.googleapis.com/v0/b/politik-e11ef.appspot.com/o/konservative%2FSoren_Pape.jpg?alt=media&token=06d53664-bd69-464e-84d6-e70d4642e66d",
+				"konservative": "true"
+			}]
+		}]
+	}
+}

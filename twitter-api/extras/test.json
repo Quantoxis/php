@@ -1,0 +1,72 @@
+{
+	"partier" : [
+		{
+			"name" : "socialistiskfolkeparti",
+			"twitterhandle" : "",
+			"member" : [
+				{
+					"title" : "Holger K. Nielsen",
+					"twitterhandle" : "@sfhoni"
+				},
+				{
+					"title" : "Jacob Mark",
+					"twitterhandle" : "@jacobmark_sf"
+				},
+				{
+					"title" : "Karsten Hønge",
+					"twitterhandle" : "@khoenge"
+				},
+				{
+					"title" : "Kirsten Normann Andersen",
+					"twitterhandle" : "@KirstenNormann"
+				},
+				{
+					"title" : "Lisbeth Bech Poulsen",
+					"twitterhandle" : "@LisbethBPoulsen"
+				},
+				{
+					"title" : "Pia Olsen Dyhr",
+					"twitterhandle" : "@PiaOlsen"
+				},
+				{
+					"title" : "Trine Torp",
+					"twitterhandle" : "@TrineTorp"
+				}
+			]	
+		},
+		{
+			"name" : "konservative",
+			"twitterhandle" : "@KonservativeDK",
+			"member" : [
+				{
+					"title" : "Brigitte Klintskov Jerkel",
+					"twitterhandle" : "@JerkelK"
+				},
+				{
+					"title" : "Mai Mercado",
+					"twitterhandle" : "@_MaiMercado"
+				},
+				{
+					"title" : "Mette Abildgaard",
+					"twitterhandle" : "@metteabildgaard"
+				},
+				{
+					"title" : "Naser Khader",
+					"twitterhandle" : "@naserkhaderdk"
+				},
+				{
+					"title" : "Rasmus Jarlov",
+					"twitterhandle" : "@RasmusJarlov"
+				},
+				{
+					"title" : "Søren Pape Poulsen",
+					"twitterhandle" : "@SorenPape"
+				},
+				{
+					"title" : "Trine Torp",
+					"twitterhandle" : "@TrineTorp"
+				}
+			]	
+		}
+	]
+}

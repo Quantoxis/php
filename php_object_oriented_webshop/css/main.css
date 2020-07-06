@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-y: scroll;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+.darkmode-bg{
+    background-color: #121212;
+    color: white;
+}
+
+.dividerLine::before{
+    content: "";
+    height: 20px;
+    width: 1px;
+    background: #f8f9fa;
+    margin: 0px 10px;
+}
+
+@media (max-width: 1200px) {
+    .dividerLine::before, .dividerLineContent{
+        display: none;
+    }
+}

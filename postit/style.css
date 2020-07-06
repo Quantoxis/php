@@ -1,0 +1,155 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'verdana', 'helvetica', sans-serif;
+}
+.container{
+	display: flex;
+	flex-wrap: wrap;
+}
+button{
+	border: none;
+	padding: 10px 20px 10px 20px;
+	background-color: #00e2ff;
+	color: white;
+	font-weight: 1000;
+	border-radius: 20px;
+	width: 100%;
+	margin-bottom: 30px;
+	
+	transition: 0.5s;
+}
+button:hover{
+	border: none;
+	padding: 10px 20px 10px 20px;
+	background-color: #0098ac;
+	color: white;
+	font-weight: 1000;
+	border-radius: 20px;
+	width: 100%;
+	margin-bottom: 30px;
+}
+.inputLeft{
+	padding: 5px;
+	border-style: none;
+	width: 100%;
+	margin-bottom: 10px;
+}
+h1{
+	width: 100%;
+	text-align: center;
+	color: white;
+	margin-top: 20px;
+	font-weight: bold;
+	font-size: 50px;
+}
+h2{
+	margin-bottom: 10px;
+}
+
+#left{
+	width: 30%;
+	background-color: #151515;
+	color: white;
+}
+#innerLeft{
+	padding: 20px;
+}
+.loginInfo{
+	float: right;
+}
+.loggedInText{
+	margin-bottom: 5px;
+}
+.createUser{
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+.login{
+	margin-bottom: 20px;
+}
+.create{
+	
+}
+select{
+	margin-bottom: 10px;
+}
+
+#right{
+	width: 70%;
+}
+
+#postit-board{
+	margin: auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	
+	background-color: #14410B;
+	
+	border: 20px solid #9F4A09;
+	padding: 0px 10px 50px 10px;
+	
+	min-height: 800px;
+}
+.postit{
+	height: 350px;
+	width: 280px;
+	text-align: justify;
+	word-wrap: break-word;
+	
+	margin-top: 20px;
+	display: flex;
+	flex-wrap: wrap;
+	padding: 15px;
+	
+	border-bottom-right-radius: 130px 7px;
+	
+	
+}
+.header{
+	height: 50px;
+	width: 70%;
+}
+
+.text{
+	height: 200px;
+	width: 100%;
+	
+}
+.date{
+	height: 50px;
+	width: 40%;
+}
+.username{
+	height: 50px;
+	width: 40%;
+}
+
+
+.postityellow{
+	background: linear-gradient(135deg, #CFCE1B, #EEEE90);
+	box-shadow: 5px 5px 5px -4px black;
+}
+.postitgreen{
+	background: linear-gradient(135deg, #118024, #4DE446);
+	box-shadow: 5px 5px 5px -4px black;
+}
+.postitred{
+	background: linear-gradient(135deg, #A01515, #E96E6E);
+	box-shadow: 5px 5px 5px -4px black;
+}
+.postitblue{
+	background: linear-gradient(135deg, #021ED5, #739EE8);
+	box-shadow: 5px 5px 5px -4px black;
+}
+@media screen and (max-width: 480px) {
+	#left, #right{
+		width: 100%;
+	}
+}

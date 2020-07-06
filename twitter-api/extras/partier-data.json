@@ -1,0 +1,63 @@
+﻿{
+	"partier": {
+		"socialdemokratiet": [{
+			"member": [{
+				"title": "Dan Jørgensen",
+				"twitterhandle": "DanJoergensen",
+				"picturemires": ""
+			}, {
+				"navn": "Astrid Krag",
+
+				"twitterhandle": "@Astridkrag",
+
+				"picturemires": ""
+			}, {
+				"navn": "",
+				"twitterhandle": "",
+				"picturemires": ""
+			}, {
+				"navn": "",
+				"twitterhandle": "",
+				"picturemires": ""
+			}, {
+				"navn": "",
+				"twitterhandle": "",
+				"picturemires": ""
+			}, {
+				"navn": "",
+				"twitterhandle": "",
+				"picturemires": ""
+			}]
+		}],
+		"radikalevenstre": [{
+				"member": [{
+					"navn": "",
+					"twitterhandle": "",
+					"picturemires": ""
+				}, {
+					"navn": "",
+					"twitterhandle": "",
+					"picturemires": ""
+				}, {
+					"navn": "",
+					"twitterhandle": "",
+					"picturemires": ""
+				}, {
+					"navn": "",
+					"twitterhandle": "",
+					"picturemires": ""
+				}, {
+					"navn": "",
+					"twitterhandle": "",
+					"picturemires": ""
+				}, {
+					"navn": "",
+					"twitterhandle": "",
+					"picturemires": ""
+				}]
+			}
+
+		]
+	}
+
+}

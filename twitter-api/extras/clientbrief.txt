@@ -1,0 +1,9 @@
+2 Politiker tweets
+Dagbladet Politiken ønsker et forslag til selvstændigt website, hvor alle tweets fra danske politikere i Folketinget med en twitterprofil er samlet. 
+User story:
+”Som politisk interesseret, ønsker jeg at have alle danske politikeres tweets samlet ét sted, så jeg ikke behøver at følge dem alle på min egen konto, og så jeg ikke er nødsaget til at holde øje med, om nye politikere begynder at bruge Twitter.”
+
+Foreløbige krav:
+-	Sitet skal automatisk trække data fra danske folketingspolitikeres tweets fra Twitters API: https://developer.twitter.com/en/docs 
+-	Sitet skal automatisk opdateres, når nye tweets publiceres
+-	Brugeren skal have mulighed for at sortere i data, så der fx kun vises tweets fra bestemte partier

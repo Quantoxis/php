@@ -1,0 +1,7 @@
+/* Import alle scss files here */
+* {
+  margin: 0;
+  padding: 0; }
+
+h1 {
+  color: blue; }
